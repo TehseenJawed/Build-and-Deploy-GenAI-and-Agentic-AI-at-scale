@@ -1,14 +1,14 @@
 {
     "builds": [
         {
-            "src": "instant.py",
+            "src": "firstLLM.py",
             "use": "@vercel/python"
         }
     ],
     "routes": [
         {
             "src": "/(.*)",
-            "dest": "instant.py"
+            "dest": "firstLLM.py"
         }
     ]
 }
