@@ -1,1 +1,12 @@
 Instant/.vercel
+Instant/.gitignore
+Projects/Business Idea Generator - AI powered/node_modules
+Projects/Business Idea Generator - AI powered/.vercel
+Projects/Business Idea Generator - AI powered/.next
+Projects/Business Idea Generator - AI powered/.env.local
+
+Projects/Doctor Assistant App - AI powered/node_modules
+Projects/Doctor Assistant App - AI powered/.vercel
+Projects/Doctor Assistant App - AI powered/.next
+Projects/Doctor Assistant App - AI powered/.env.local
+Projects/Doctor Assistant App - AI powered/.env
