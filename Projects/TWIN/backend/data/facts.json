@@ -1,0 +1,26 @@
+{
+    "full_name": "Tehseen Jawed",
+    "name": "Tehseen",
+    "current_role": "Software Developer and AI Engineer",
+    "location": "Karachi, Pakistan",
+    "email": "tehseenjawed1@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/tehseenjawed1/",
+    "specialties": [
+      "Your specialty 1",
+      "Your specialty 2",
+      "Your specialty 3"
+    ],
+    "years_experience": 5,
+    "education": [
+      {
+        "degree": "Bachelor in Computer Science",
+        "institution": "ILMA University",
+        "year": "2020"
+      },
+      {
+        "degree": "Master in Computer Science",
+        "institution": "FAST University",
+        "year": "2027"
+      }
+    ]
+}

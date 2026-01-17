@@ -10,3 +10,10 @@ Projects/Doctor Assistant App - AI powered/.vercel
 Projects/Doctor Assistant App - AI powered/.next
 Projects/Doctor Assistant App - AI powered/.env.local
 Projects/Doctor Assistant App - AI powered/.env
+Projects/TWIN/backend/.env
+Projects/TWIN/backend/lambda-deployment.zip
+Projects/TWIN/backend/lambda-package/
+Projects/TWIN/frontend/out/
+Projects/TWIN/frontend/node_modules/
+Projects/TWIN/.env
+Projects/TWIN/memory/
